@@ -84,13 +84,6 @@ SafeNest is a modern child safety platform that helps parents stay connected wit
 <tr>
 <td colspan="2" align="center">
 
-### 🚨 Safety Dashboard
-
-<img src="screenshots/child-events.png" width="260">
-
-</td>
-</tr>
-
 </table>
 
 ---
