@@ -1,5 +1,14 @@
 # 🛡️ SafeNest
 
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blue)
+![Python](https://img.shields.io/badge/Python-Backend-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST%20API-green)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Push%20Notifications-orange)
+![Linux](https://img.shields.io/badge/Linux-VPS-black)
+![Private Source](https://img.shields.io/badge/Source%20Code-Private-red)
+
 SafeNest is a modern child safety platform that helps parents stay connected with their children while respecting privacy.
 
 > ⚠️ Source code is private.
