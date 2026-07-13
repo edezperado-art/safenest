@@ -1,4 +1,14 @@
-# 🛡️ SafeNest
+<p align="center">
+  <a href="https://www.mysafenestapp.com">
+    <img src="safenest-logo.png" alt="SafeNest Logo" width="180"/>
+  </a>
+</p>
+
+<h1 align="center">SafeNest</h1>
+
+<p align="center">
+Child Safety Platform for Android
+</p>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blue)
