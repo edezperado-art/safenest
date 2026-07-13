@@ -30,6 +30,61 @@ SafeNest is a modern child safety platform that helps parents stay connected wit
 
 ---
 
+---
+
+# 📱 Application Preview
+
+<table>
+<tr>
+<td align="center">
+
+### 🌍 Language Selection
+
+<img src="screenshots/language-selection.png" width="230">
+
+</td>
+
+<td align="center">
+
+### 🔐 Sign In
+
+<img src="screenshots/sign-in.png" width="230">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 👨‍👦 Pair Child
+
+<img src="screenshots/parent-pairing-code.png" width="230">
+
+</td>
+
+<td align="center">
+
+### 🔗 Connect Device
+
+<img src="screenshots/connect-child.png" width="230">
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🚨 Safety Dashboard
+
+<img src="screenshots/child-events.png" width="260">
+
+</td>
+</tr>
+
+</table>
+
+---
+
 # 🏗️ System Architecture
 
 ```text
