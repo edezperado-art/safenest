@@ -1,13 +1,18 @@
 <p align="center">
   <a href="https://www.mysafenestapp.com">
-    <img src="safenest-logo.png" alt="SafeNest Logo" width="180"/>
+    <img src="safenest-logo.png" width="180"/>
   </a>
 </p>
 
 <h1 align="center">SafeNest</h1>
 
 <p align="center">
-Child Safety Platform for Android
+  Child Safety Platform for Android
+</p>
+
+<p align="center">
+  <a href="https://www.mysafenestapp.com"><b>🌐 Website</b></a> •
+  <a href="https://www.linkedin.com/in/artem-kasymbekov-47929541a/"><b>LinkedIn</b></a>
 </p>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
